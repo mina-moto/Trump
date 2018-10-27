@@ -74,9 +74,9 @@ public class Blackjack implements Game{
 	 */
 	public void drawAction(Player player){
 		player.pullCard();
-		player.showHand();
-		System.out.println("合計値"+handTotal(player));	
-		if(burst(player)) System.out.println("バースト");
+//		player.showHand();
+//		System.out.println("合計値"+handTotal(player));	
+//		if(burst(player)) System.out.println("バースト");
 	}
 	/**
 	 * ヒットかステイか選択
@@ -124,7 +124,7 @@ public class Blackjack implements Game{
 			drawAction(player);
 			drawAction(player);
 			now = "choice";
-			System.out.println("Hit or Stand?");
+//			System.out.println("Hit or Stand?");
 			break;
 		case "choice":
 			choiceAction();

@@ -3,6 +3,8 @@
  */
 package player;
 
+import game.Table;
+
 import java.awt.Color;
 import java.awt.Image;
 import java.awt.event.KeyEvent;
@@ -12,7 +14,6 @@ import card.Card;
 import densan.s.game.drawing.Drawer;
 import densan.s.game.image.ImageLoader;
 import densan.s.game.input.KeyInput;
-import game.Table;
 
 /**
  * プレイヤーの行動定義
@@ -61,10 +62,9 @@ public class Player extends Table{
 	 * 手札表示(文字)
 	 */
 	public void showHand(){
-		//super.draw(d, cards);
-		System.out.print(name+"の手札:");
+//		System.out.print(name+"の手札:");
 		for(Card cards : handCard){
-			System.out.printf(cards.getCardType()+",");
+//			System.out.printf(cards.getCardType()+",");
 		}
 	}
 	/**
