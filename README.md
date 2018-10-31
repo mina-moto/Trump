@@ -4,8 +4,8 @@ BlackJackで遊べます．
 
 
 
-#環境
+# 環境
 
 
-#実行
+# 実行
 java -jar Trump.jar
