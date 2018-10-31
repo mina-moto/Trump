@@ -63,9 +63,9 @@ public class Player extends Table{
 	 */
 	public void showHand(){
 //		System.out.print(name+"の手札:");
-		for(Card cards : handCard){
+//		for(Card cards : handCard){
 //			System.out.printf(cards.getCardType()+",");
-		}
+//		}
 	}
 	/**
 	 * 手札リセット
