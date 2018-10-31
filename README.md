@@ -1,5 +1,5 @@
 # Trump
-====
+----
 BlackJackで遊べます．
 
 
