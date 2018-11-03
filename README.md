@@ -6,6 +6,12 @@ BlackJackで遊べます．
 ←→キー:Hit,Stand選択  
 Zキー:決定及び進行  
 
+## 実行方法
+java -jar Trump.jar  
+
+## 使用ライブラリ
+https://www65.atwiki.jp/kindaidensan/pages/20.html
+
 ## 開発環境
 JAVA8  
 Eclipse  
@@ -23,12 +29,6 @@ src以下にsrcフォルダの中身，プロジェクト直下にdensan_game_li
 
 詳細⬇︎  
 https://www65.atwiki.jp/kindaidensan/pages/14.html  
-
-## 実行
-java -jar Trump.jar  
-
-## 使用ライブラリ
-https://www65.atwiki.jp/kindaidensan/pages/20.html
 
 ## License
 This software is released under the MIT License, see LICENSE.
