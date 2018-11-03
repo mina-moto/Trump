@@ -1,4 +1,4 @@
-#Trump
+# Trump
 ----
 BlackJackで遊べます．  
 ↑↓キー:掛け金変更  
@@ -26,7 +26,7 @@ https://www65.atwiki.jp/kindaidensan/pages/14.html
 # 実行
 java -jar Trump.jar  
 
-# ライブラリ
+# 使用ライブラリ
 https://www65.atwiki.jp/kindaidensan/pages/20.html
 
 # License
