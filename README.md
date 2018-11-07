@@ -7,7 +7,7 @@ BlackJackで遊べます．
 Zキー:決定及び進行  
 
 ## Demo
-![Angular Tetris](resources/Trump.gif
+![Trump](demo/Trump.gif)
 
 ## 実行方法
 java -jar Trump.jar  
