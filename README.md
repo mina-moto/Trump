@@ -17,12 +17,11 @@ Z：決定及び進行
 java -jar Trump.jar
 
 ## Requirement
-JAVA8
+JAVA8  
+Development Tool：Eclipse
 
-Library：densan_game_library01_01b
-
-Library download：https://www65.atwiki.jp/kindaidensan/pages/20.html
-
+Library：densan_game_library01_01b  
+Library download：https://www65.atwiki.jp/kindaidensan/pages/20.html  
 Library Usage：https://www65.atwiki.jp/kindaidensan/pages/14.html  
 
 ## License
