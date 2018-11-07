@@ -2,12 +2,12 @@
 
 ## Description
 BlackJack  
-↑↓：Installment change
-←→：Hit，Stand choice
-Z：Decision and progress
+↑↓：Installment change  
+←→：Hit，Stand choice  
+Z：Decision and progress  
 
-↑↓：掛け金変更
-←→：ヒット，スタンド選択
+↑↓：掛け金変更  
+←→：ヒット，スタンド選択  
 Z：決定及び進行  
 
 ## Demo
@@ -21,11 +21,9 @@ JAVA8
 
 Library：densan_game_library01_01b
 
-Library download
-https://www65.atwiki.jp/kindaidensan/pages/20.html
+Library download：https://www65.atwiki.jp/kindaidensan/pages/20.html
 
-Library Usage
-https://www65.atwiki.jp/kindaidensan/pages/14.html  
+Library Usage：https://www65.atwiki.jp/kindaidensan/pages/14.html  
 
 ## License
 This software is released under the MIT License, see LICENSE.
