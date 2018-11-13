@@ -8,7 +8,7 @@ Z:Decision and forward
 
 ## Demo
 <!-- ![Trump](demo/Trump.gif) -->
-<img src="demo/Trump.gif" width="320px">
+<img src="demo/Trump.gif" width="1080px">
 
 ## Run
 java -jar Trump.jar
