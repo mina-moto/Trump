@@ -4,14 +4,11 @@
 BlackJack  
 ↑↓:Installment change  
 ←→:Hit，Stand choice  
-Z:Decision and progress  
-
-↑↓:掛け金変更  
-←→:ヒット，スタンド選択  
-Z:決定及び進行  
+Z:Decision and forward  
 
 ## Demo
-![Trump](demo/Trump.gif)
+<!-- ![Trump](demo/Trump.gif) -->
+<img src="demo/Trump.gif" width="320px">
 
 ## Run
 java -jar Trump.jar
