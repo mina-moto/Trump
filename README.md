@@ -2,7 +2,10 @@
 
 ## Description
 BlackJack  
-↑↓:Installment change  
+Hit:Draw a piece of card  
+Stand:Not Draw and compete
+## Operating
+↑↓:Bet change  
 ←→:Hit，Stand choice  
 Z:Decision and forward  
 
