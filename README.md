@@ -1,5 +1,5 @@
 # Trump
-
+rws
 ## Description
 BlackJack  
 Hit:Draw a piece of card  
